@@ -18,7 +18,7 @@
                         </p>
                         <div class="mt-10">
                             <a href="#"
-                                class="px-4 py-2 bg-red-700 hover:bg-red-800 text-coolGray-50 font-semibold text-lg rounded-lg">Discover
+                                class="px-4 py-2 bg-red-700 hover:bg-red-900 text-coolGray-50 font-semibold text-lg rounded-lg">Discover
                                 More</a>
                         </div>
                     </div>

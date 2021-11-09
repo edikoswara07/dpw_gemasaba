@@ -1270,6 +1270,10 @@ video {
 	--tw-bg-opacity: 1;
 	background-color: rgba(153, 27, 27, var(--tw-bg-opacity));
 }
+.hover\:bg-red-900:hover{
+	--tw-bg-opacity: 1;
+	background-color: rgba(127, 29, 29, var(--tw-bg-opacity));
+}
 @media (prefers-reduced-motion: reduce){
 	.motion-reduce\:transform-none{
 		transform: none;
